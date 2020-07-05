@@ -2,12 +2,13 @@
 
 namespace TalentLab2020GitIntro.ConsoleApp
 {
-    class Program
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Welcome to git! Anonymously!");
+            Console.WriteLine("Just adding some chaos here!");
             Console.WriteLine("I pushed to feature branch and then created a PR (pull request) to have my changes merged to develop branch!");
         }
     }
