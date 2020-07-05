@@ -7,6 +7,7 @@ namespace TalentLab2020GitIntro.ConsoleApp
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Welcome to git!");
         }
     }
 }
